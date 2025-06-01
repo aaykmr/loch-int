@@ -93,15 +93,28 @@
 }
 
 @media (max-width: 1200px) {
+  .autoScroll {
+    margin-left: 50px;
+  }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 990px) {
   .aboutContanier {
     width: 100%;
   }
 }
 
-@media (max-width: 767px) {
-  .aboutContanier {
+@media (max-width: 768px) {
+  .aboutContainer {
+    width: 80%;
+  }
+  .autoScroll {
+    display: none;
+  }
+  .testimonialsContainer {
+    display: none;
+  }
+  .watchImage {
+    display: none;
   }
 }

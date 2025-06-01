@@ -82,13 +82,21 @@
   color: #710b0b;
 }
 
-@media (min-width: 1200px) {
-  .pageContanier {
+@media (max-width: 1200px) {
+  .signUpContainer {
+    width: 80%;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1199px) {
-  .pageContanier {
+@media (max-width: 990px) {
+  .signUpContainer {
+    width: 60%;
+  }
+}
+
+@media (max-width: 768px) {
+  .signUpContainer {
+    width: 80%;
   }
 }
 

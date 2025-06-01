@@ -39,12 +39,8 @@
   }
 }
 
-@media (min-width: 768px) and (max-width: 1199px) {
+@media (max-width: 768px) {
   .infoCardContainer {
-  }
-}
-
-@media (max-width: 767px) {
-  .infoCardContainer {
+    margin-top: 50px;
   }
 }
