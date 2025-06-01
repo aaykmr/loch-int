@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/loch-int/static/css/main.5a493085.css",
+    "main.js": "/loch-int/static/js/main.b938aeef.js",
+    "static/js/453.6bf2af25.chunk.js": "/loch-int/static/js/453.6bf2af25.chunk.js",
+    "static/media/Watch.png": "/loch-int/static/media/Watch.3772f120bf932c3d5ba5.png",
+    "static/media/Card3.png": "/loch-int/static/media/Card3.ffcedd9d6739a8f37ef0.png",
+    "static/media/Card1.png": "/loch-int/static/media/Card1.992a5cfa107be5f6ce85.png",
+    "static/media/Card2.png": "/loch-int/static/media/Card2.70b78342dc9192e36ea4.png",
+    "static/media/Comment1.png": "/loch-int/static/media/Comment1.52e629ed79c9d9be4534.png",
+    "static/media/Comment2.png": "/loch-int/static/media/Comment2.77fb6afdd334dd15e63e.png",
+    "static/media/Comment3.png": "/loch-int/static/media/Comment3.934d279ef07633041bb2.png",
+    "static/media/Eye.svg": "/loch-int/static/media/Eye.1b4e2edaa592328e57b43dbd5fd29910.svg",
+    "static/media/Bell.svg": "/loch-int/static/media/Bell.3a632f05c64ce6ceac68df74c9e652d0.svg",
+    "index.html": "/loch-int/index.html",
+    "static/media/Logo.svg": "/loch-int/static/media/Logo.972c8a77129582b0a3efad85c9dd0464.svg",
+    "main.5a493085.css.map": "/loch-int/static/css/main.5a493085.css.map",
+    "main.b938aeef.js.map": "/loch-int/static/js/main.b938aeef.js.map",
+    "453.6bf2af25.chunk.js.map": "/loch-int/static/js/453.6bf2af25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a493085.css",
+    "static/js/main.b938aeef.js"
+  ]
+}
