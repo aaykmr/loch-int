@@ -1,0 +1,23 @@
+.homeContanier {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  z-index: 1;
+  display: flex;
+  // align-items: center;
+  // justify-content: center;
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 768px) {
+  .homeContanier {
+    flex-direction: column-reverse;
+  }
+}
+
+@media (max-width: 767px) {
+  .homeContanier {
+  }
+}

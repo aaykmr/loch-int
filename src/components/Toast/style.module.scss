@@ -1,0 +1,44 @@
+@import "../../styles/variables";
+
+:global {
+  .Toastify__toast {
+    border-radius: 8px;
+    font-family: $font-family-base;
+    font-size: 14px;
+    padding: 16px;
+    margin-bottom: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+
+    &--success {
+      background: $success-color;
+      color: white;
+    }
+
+    &--error {
+      background: $error-color;
+      color: white;
+    }
+
+    &--info {
+      background: $primary-color;
+      color: white;
+    }
+
+    &--warning {
+      background: $secondary-color;
+      color: white;
+    }
+  }
+
+  .Toastify__progress-bar {
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  .Toastify__close-button {
+    color: white;
+    opacity: 0.7;
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
